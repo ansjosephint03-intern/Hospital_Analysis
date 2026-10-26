@@ -6,3 +6,5 @@ xgboost
 shap
 streamlit
 streamlit-autorefresh
+SQLAlchemy
+PyMySQL
